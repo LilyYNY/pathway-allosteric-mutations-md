@@ -8,4 +8,4 @@ The project focuses on protPheMut-based screening and molecular dynamics validat
 
 This repository is associated with my expected master's thesis in Medical Systems Biology at Soochow University.
 
-## Note: more details will be updated when the work will be published.
+## Note: Further details regarding this work will be updated after this article is published.
